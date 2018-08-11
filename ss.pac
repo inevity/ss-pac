@@ -4,6 +4,11 @@
 var proxy = "SOCKS5 127.0.0.1:1080;";
 
 var domains = {
+  "slack.com": 1,
+  "slack-files.com": 1,
+  "slack-imgs.com": 1,
+  "slack-msgs.com": 1,
+  "slack-edge.com": 1,
   "4shared.com": 1, 
   "galstars.net": 1, 
   "gloryhole.com": 1, 
